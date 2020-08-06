@@ -10,5 +10,5 @@ It detects three types of tones, including emotion (anger, disgust, fear, joy an
 
 
 
-Episode transcripts from http://theinfosphere.org/
+Futurama transcripts from http://theinfosphere.org/
 Content is available under Attribution-Share Alike 3.0 Unported.
